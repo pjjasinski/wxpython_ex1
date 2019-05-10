@@ -17,4 +17,4 @@ pip install wxpython
 ```
 
 ## Running
-python main.py
+python gui_example.py
